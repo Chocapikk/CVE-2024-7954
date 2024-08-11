@@ -1,0 +1,6 @@
+bs4
+requests
+rich_click
+alive_progress
+prompt_toolkit
+random_user_agent
